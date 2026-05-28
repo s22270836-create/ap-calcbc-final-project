@@ -1,0 +1,331 @@
+ 제주 공항 좌표:
+ 33°30′41″N 126°29′35″E
+ 33.5121° N, 126.4925° E
+ SJA 좌표:
+ 33.3006 °N 126.2737°E
+ 성산일출봉 좌표:
+ 33°27′31″N 126°56′31″E
+ 33.4585 °N 126.9420°E
+ 산방산 좌표:
+ 33°14′30″N 126°18′47″E
+ 33.24167 °N 126.31306°E
+ 제주민속촌 좌표:
+ 33.32°N, 126.83°E
+ 한라산 좌표:
+ 33° 21′ 42″N 126° 31′ 45″E
+ 협재해수욕장 좌표:
+ 33° 23′ 38″ N, 126° 14′ 20″ E
+ latitude:33.3934520 hardness:126.2396345
+ 월정리해수욕장 좌표:
+ 33° 33′ 45″ N, 126° 47′ 28″ E(33.5625, 126.7911)
+
+ 5월 18일:
+ 오전: 17°, 맑음, 강수 확률: 20%
+ 오후: 27°, 맑음, 강수 확률: 20%
+ 5월 19일:
+ 오전: 17°, 맑음, 강수 확률: 20%
+ 오후: 25°, 흐림, 강수 확률: 30%
+ 5월 20일:
+ 오전: 19°, 흐림, 강수 확률: 30%
+ 오후: 23°, 비, 강수 확률: 60%
+ 5월 21일:
+ 오전: 20°, 비, 강수 확률: 60%
+ 오후: 22°, 비, 강수 확률: 60%
+ 5월 22일:
+ 오전: 16°, 맑음, 강수 확률: 20%
+ 오후: 22°, 맑음, 강수 확률: 20%
+ 5월 23일:
+ 오전: 18°, 비, 강수 확률: 60%
+ 오후: 23°, 비, 강수 확률: 60%
+ 5월 24일:
+ 오전: 17°, 맑음, 강수 확률: 10%
+ 오후: 24°, 맑음, 강수 확률: 10%
+ 5월 25일:
+ 오전: 17°, 맑음, 강수 확률: 20%
+ 오후: 25°, 맑음, 강수 확률: 20%
+ 5월 26일:
+ 오전: 18°, 비, 강수 확률: 60%
+ 오후: 25°, 비, 강수 확률: 60%
+ 5월 27일:
+ 오전: 17°, 맑음, 강수 확률: 20%
+ 오후: 23°, 맑음, 강수 확률: 20%
+ 5월 28일:
+ 오전: 17°, 맑음, 강수 확률: 20%
+ 오후: 23°, 맑음, 강수 확률: 20%
+
+energyData = [
+  {
+    id: 8154,
+    date: "2026-05-17 21:00",
+    capacityMW: 2162.81,
+    supplyMW: 1129.93,
+    lastYearPeakMW: 708.53,
+    currentPeakMW: 735.92,
+    growthRate: 3.87,
+    reserveMW: 394.01,
+    reserveRate: 53.54,
+  },
+  {
+    id: 8153,
+    date: "2026-05-16 21:00",
+    capacityMW: 2162.81,
+    supplyMW: 1090.94,
+    lastYearPeakMW: 708.12,
+    currentPeakMW: 728.60,
+    growthRate: 2.89,
+    reserveMW: 362.34,
+    reserveRate: 49.73,
+  },
+  {
+    id: 8152,
+    date: "2026-05-15 21:00",
+    capacityMW: 2162.81,
+    supplyMW: 1070.27,
+    lastYearPeakMW: 770.58,
+    currentPeakMW: 753.33,
+    growthRate: -2.24,
+    reserveMW: 316.94,
+    reserveRate: 42.07,
+  },
+  {
+    id: 8151,
+    date: "2026-05-14 21:00",
+    capacityMW: 2162.81,
+    supplyMW: 1153.93,
+    lastYearPeakMW: 747.73,
+    currentPeakMW: 746.67,
+    growthRate: -0.14,
+    reserveMW: 407.26,
+    reserveRate: 54.54,
+  },
+  {
+    id: 8150,
+    date: "2026-05-13 21:00",
+    capacityMW: 2162.81,
+    supplyMW: 1142.01,
+    lastYearPeakMW: 731.82,
+    currentPeakMW: 748.78,
+    growthRate: 2.32,
+    reserveMW: 393.23,
+    reserveRate: 52.52,
+  },
+  {
+    id: 8149,
+    date: "2026-05-12 12:00",
+    capacityMW: 2162.81,
+    supplyMW: 1082.99,
+    lastYearPeakMW: 738.49,
+    currentPeakMW: 751.55,
+    growthRate: 1.77,
+    reserveMW: 331.44,
+    reserveRate: 44.10,
+  },
+  {
+    id: 8148,
+    date: "2026-05-11 21:00",
+    capacityMW: 2162.81,
+    supplyMW: 1111.62,
+    lastYearPeakMW: 737.83,
+    currentPeakMW: 733.02,
+    growthRate: -0.65,
+    reserveMW: 378.60,
+    reserveRate: 51.65,
+  },
+  {
+    id: 8147,
+    date: "2026-05-10 21:00",
+    capacityMW: 2162.81,
+    supplyMW: 1236.03,
+    lastYearPeakMW: 733.74,
+    currentPeakMW: 712.88,
+    growthRate: -2.84,
+    reserveMW: 523.16,
+    reserveRate: 73.39,
+  },
+  {
+    id: 8146,
+    date: "2026-05-09 21:00",
+    capacityMW: 2162.81,
+    supplyMW: 1081.75,
+    lastYearPeakMW: 746.31,
+    currentPeakMW: 751.40,
+    growthRate: 0.68,
+    reserveMW: 330.35,
+    reserveRate: 43.96,
+  },
+];
+const gpsRoutes = [
+  {
+    id: 1,
+    from: "Jeju Airport",
+    to: "Hallasan",
+    distanceKm: 28,
+    estimatedTimeMin: 45,
+    coordinates: [
+      [33.5121, 126.4925],
+      [33.4500, 126.5000],
+      [33.36167, 126.52917],
+    ],
+  },
+
+  {
+    id: 2,
+    from: "Jeju Airport",
+    to: "Hyeopjae Beach",
+    distanceKm: 35,
+    estimatedTimeMin: 50,
+    coordinates: [
+      [33.5121, 126.4925],
+      [33.4700, 126.3800],
+      [33.393452, 126.2396345],
+    ],
+  },
+
+  {
+    id: 4,
+    from: "Jeju Airport",
+    to: "Seongsan Ilchulbong",
+    distanceKm: 42,
+    estimatedTimeMin: 60,
+    coordinates: [
+      [33.5121, 126.4925],
+      [33.5000, 126.7000],
+      [33.4585, 126.9420],
+    ],
+  },
+
+  {
+    id: 5,
+    from: "Jeju Airport",
+    to: "Sanbangsan",
+    distanceKm: 38,
+    estimatedTimeMin: 55,
+    coordinates: [
+      [33.5121, 126.4925],
+      [33.4000, 126.3800],
+      [33.24167, 126.31306],
+    ],
+  },
+
+  {
+    id: 6,
+    from: "Jeju Airport",
+    to: "Jeju Folk Village",
+    distanceKm: 41,
+    estimatedTimeMin: 58,
+    coordinates: [
+      [33.5121, 126.4925],
+      [33.4200, 126.7000],
+      [33.32, 126.83],
+    ],
+  },
+
+  {
+    id: 7,
+    from: "SJA",
+    to: "Sanbangsan",
+    distanceKm: 10,
+    estimatedTimeMin: 18,
+    coordinates: [
+      [33.3006, 126.2737],
+      [33.2700, 126.2900],
+      [33.24167, 126.31306],
+    ],
+  },
+
+  {
+    id: 8,
+    from: "SJA",
+    to: "Hallasan",
+    distanceKm: 30,
+    estimatedTimeMin: 45,
+    coordinates: [
+      [33.3006, 126.2737],
+      [33.3300, 126.4200],
+      [33.36167, 126.52917],
+    ],
+  },
+
+  {
+    id: 9,
+    from: "Hallasan",
+    to: "Seongsan Ilchulbong",
+    distanceKm: 47,
+    estimatedTimeMin: 70,
+    coordinates: [
+      [33.36167, 126.52917],
+      [33.4000, 126.7200],
+      [33.4585, 126.9420],
+    ],
+  },
+
+  {
+    id: 10,
+    from: "Sanbangsan",
+    to: "Hyeopjae Beach",
+    distanceKm: 22,
+    estimatedTimeMin: 35,
+    coordinates: [
+      [33.24167, 126.31306],
+      [33.3200, 126.2600],
+      [33.393452, 126.2396345],
+    ],
+  },
+
+  {
+    id: 13,
+    from: "Hyeopjae Beach",
+    to: "Hallasan",
+    distanceKm: 31,
+    estimatedTimeMin: 50,
+    coordinates: [
+      [33.393452, 126.2396345],
+      [33.3900, 126.4000],
+      [33.36167, 126.52917],
+    ],
+  },
+
+  {
+    id: 14,
+    from: "Hallasan",
+    to: "Jeju Folk Village",
+    distanceKm: 29,
+    estimatedTimeMin: 42,
+    coordinates: [
+      [33.36167, 126.52917],
+      [33.3400, 126.6800],
+      [33.32, 126.83],
+    ],
+  },
+
+{
+  id: 16,
+  from: "SJA",
+  to: "Jeju Airport",
+  distanceKm: 27,
+  estimatedTimeMin: 40,
+  coordinates: [
+    [33.3006, 126.2737],
+    [33.3800, 126.3600],
+    [33.4600, 126.4300],
+    [33.5121, 126.4925],
+  ],
+},
+
+{
+  id: 17,
+  from: "Jeju Airport",
+  to: "SJA",
+  distanceKm: 27,
+  estimatedTimeMin: 38,
+  coordinates: [
+    [33.5121, 126.4925],
+    [33.4700, 126.4300],
+    [33.3900, 126.3500],
+    [33.3006, 126.2737],
+  ],
+}
+
+];
+
+Traffic data는 공식적인 기록을 외부인이 볼 수 없어서 랜덤으로 설정함.
