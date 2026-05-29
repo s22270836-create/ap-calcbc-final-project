@@ -4,6 +4,7 @@ import { useGameStore } from '../store/gameStore';
 const SHOP_ITEMS = [
   {
     id: 'niffler',
+    name: 'Teddy',
     price: 9,
     image: '/niffler.png',
     tag: 'RARE',
@@ -11,6 +12,7 @@ const SHOP_ITEMS = [
   },
   {
     id: 'pieapple',
+    name: 'π Apple',
     price: 12,
     image: '/pieapple.png',
     tag: 'RARE',
@@ -18,6 +20,7 @@ const SHOP_ITEMS = [
   },
   {
     id: 'duck',
+    name: 'Duck',
     price: 9,
     image: '/duck.png',
     tag: 'RARE',
