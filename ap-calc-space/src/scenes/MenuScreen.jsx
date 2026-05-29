@@ -20,7 +20,7 @@ export default function MenuScreen({ onStart, onOverview }) {
           </button>
 
           <button className="menu-button" onClick={() => setIsAnswersOpen(true)}>
-            Answers
+            ANSWERS
           </button>
 
           <button className="menu-button" onClick={onOverview}>
