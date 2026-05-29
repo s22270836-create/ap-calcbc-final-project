@@ -120,7 +120,7 @@ export default function GameManualModal({ isOpen, onClose }) {
           padding: '20px', borderBottom: '1px solid rgba(0,255,204,0.3)',
           display: 'flex', justifyContent: 'space-between', alignItems: 'center'
         }}>
-          <h2 style={{ margin: 0, color: '#00ffcc', letterSpacing: '4px' }}>CITY_OPERATIONS_MANUAL</h2>
+          <h2 style={{ margin: 0, color: '#00ffcc', letterSpacing: '4px' }}>GAME MANUAL</h2>
           <button onClick={onClose} style={{
             background: 'transparent', border: '1px solid #00ffcc', color: '#00ffcc',
             padding: '5px 15px', cursor: 'pointer'
